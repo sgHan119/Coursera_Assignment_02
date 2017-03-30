@@ -3,7 +3,7 @@
   box-sizing: border-box;
   font-size: 16px;
   color: #fff;
-  background-color: #61122f;
+  background-color: #f5f5f5;
 }
 
 h1 {
@@ -17,7 +17,7 @@ h1 {
 }
 
 .title {
-  background-color: #00FFFF;
+  background-color: #35dac0;
   position: absolute;
   top: 0;
   margin: 0;
@@ -31,7 +31,7 @@ h1 {
 }
 
 .item {
-  background-color: #0000FF;
+  background-color: #ffffff;
   position: relative;
 }
 
